@@ -80,7 +80,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
-            <mainClass>com.capgemini.Client</mainClass>
+            <mainClass>com.app.socialnetwork</mainClass>
         </configuration>
  
         <executions>
